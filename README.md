@@ -1,19 +1,20 @@
-<p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
-</p>
 <h1 align="center">
-  𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
+🅼🅰🆂🆃🅴🆁🅼🅸🅽🅳-🅼🅰🆈🅰🅽🅺-🅼🅾🆅🅸🅴🆂
 </h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Jᴏᴇʟ+ᠰ+TɢX!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+<p align="center">
+  <img src="https://graph.org/file/6a3bcd9fd18bd89418634.jpg" alt="Mastermind Mayank Movies Logo">
 </p>
 
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/network/members"> <img src="https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor"> <img src="https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor"> <img src="https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+Mastermind+Mayank+Movies!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Mastermind+Mayank!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+</p>
+
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/stargazers"><img src="https://img.shields.io/github/stars/mastermindmayankofficial/Mastermind-Mayank-Movies?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/network/members"> <img src="https://img.shields.io/github/forks/mastermindmayankofficial/Mastermind-Mayank-Movies?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies"> <img src="https://img.shields.io/github/repo-size/mastermindmayankofficial/Mastermind-Mayank-Movies?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/mastermindmayankofficial/Mastermind-Mayank-Movies?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies"> <img src="https://img.shields.io/github/contributors/mastermindmayankofficial/Mastermind-Mayank-Movies?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
@@ -56,7 +57,7 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/DQ_The_File_Donor_Updates'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/mastermindmayankproject'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -108,19 +109,19 @@
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/blob/main/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
+<a href="https://heroku.com/deploy?template=https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -138,11 +139,11 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mastermindmayankofficial/Mastermind-Mayank-Movies&branch=koyeb&name=mastermindmayankmovies)
 </details>
 
 <details><summary>Deploy on Railway</summary>
-<a href="https://railway.app/new/template/y0ryFO">
+<a href="https://railway.app/new/template/y0yFO">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway">
 </a>
 </details>
@@ -150,7 +151,7 @@
 <details><summary> Deploy To Okteto </summary>
 <br>
 <p>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Joelkb/DQ-The-File-Donor&branch=master">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies&branch=main">
   <img src="https://okteto.com/develop-okteto.svg" alt="Deploy to Okteto">
 </a>
 </p>
@@ -159,7 +160,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
+git clone https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -171,34 +172,19 @@ python3 bot.py
 <hr>
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Mastermind Mayank](https://img.shields.io/static/v1?label=Mastermind+Mayank&message=Github&color=critical)](https://github.com/mastermindmayankofficial)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/mastermindmayankmoviez)
 
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Mᴇᴅɪᴀ-Sᴇᴀʀᴄʜ-Bᴏᴛ](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Uɴʟɪᴍɪᴛᴇᴅ Fɪʟᴛᴇʀ Bᴏᴛ](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
- - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
- - Thanks To [Joelkb](https://github.com/Joelkb) who have edited and modified this repo as now it is. (It's me 😂)
 
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/mastermindmayankmoviez)
 
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
+Licensed under [GNU AGPL 3.0.](https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
