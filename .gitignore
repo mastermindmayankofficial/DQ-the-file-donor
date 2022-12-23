@@ -146,3 +146,5 @@ cython_debug/
 config.py
 .goutputstream-VAFWB1
 result.json
+
+# line 218 utils.py https://github.com/SpEcHiDe/PyroGramBot/blob/f30e2cca12002121bad1982f68cd0ff9814ce027/pyrobot/helper_functions/extract_user.py#L7
