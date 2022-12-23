@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/mastermindmayankofficial/Mastermind-Mayank-Movies.git /Mastermind-Mayank-Movies
+  git clone https://github.com/mastermindmayankofficial/DQ-the-file-donor/edit/main.git /DQ-the-file-donor
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Mastermind-Mayank-Movies
