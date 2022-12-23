@@ -147,4 +147,10 @@ config.py
 .goutputstream-VAFWB1
 result.json
 
-# line 218 utils.py https://github.com/SpEcHiDe/PyroGramBot/blob/f30e2cca12002121bad1982f68cd0ff9814ce027/pyrobot/helper_functions/extract_user.py#L7
+#utils.py
+line 218 # https://github.com/SpEcHiDe/PyroGramBot/blob/f30e2cca12002121bad1982f68cd0ff9814ce027/pyrobot/helper_functions/extract_user.py#L7
+Line 135 # https://github.com/odysseusmax/animated-lamp/blob/2ef4730eb2b5f0596ed6d03e7b05243d93e3415b/bot/utils/broadcast.py#L37
+Line 59 # https://t.me/GetTGLink/4183
+
+#info.py
+
