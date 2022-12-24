@@ -22,6 +22,7 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/923a13614827ccf1a2e90.mp4 https://telegra.ph/file/6c5bc55b73384ba4c303a.mp4 https://telegra.ph/file/d91ac1f53b5125854bf71.mp4 https://telegra.ph/file/1d590e56cf43d28410a88.mp4 https://telegra.ph/file/20d9d8781af327d92b0da.mp4 https://telegra.ph/file/3f4a3325a2e9b398f9046.mp4 https://telegra.ph/file/90160266b49ece48609ab.mp4 https://telegra.ph/file/3746cf10991d16a6430cc.mp4 https://telegra.ph/file/831e99f7befb90f9be7f4.mp4 https://telegra.ph/file/ab2c0589c04f5b289b74e.mp4 https://telegra.ph/file/7de252ef62a8660f87dce.mp4 https://telegra.ph/file/2280a2fa537b75ca1f1ac.mp4')).split()
+STICKER = (environ.get('STICKER', 'CAACAgUAAxkBAAIEVWL6C28YSH-wls4oFFrziOCoUMUqAALDBQACbBS5V2NazuHcCfEPHgQ CAACAgUAAxkBAAIEVGL6C2lelc69C6FICGN9bwhWKY4GAAKwBgACxS6wVwr0-R_TTet3HgQ CAACAgUAAxkBAAIEQWL6C0-i60ZXLmNfrfGyF-tXQ8mGAAJ2BgACFPGhV5YGbchd7kR-HgQ CAACAgUAAxkBAAIEQmL6C0nFxWYjAzJkfqkdA34HARbJAAIPCAACuc2pV35uuVLrsyJzHgQ CAACAgUAAxkBAAIEQ2L6C0TYb7bWLdthTyt0J-YKL5b8AAKMBwACopOpV8IkcbZ5awoPHgQ CAACAgUAAxkBAAIERWL6Czw2n7TBN5akcqeSKEeevzAgAAJIBQACa-G5VwNKMtODitd-HgQ CAACAgUAAxkBAAIEQ2L6C0TYb7bWLdthTyt0J-YKL5b8AAKMBwACopOpV8IkcbZ5awoPHgQ CAACAgUAAxkBAAIERGL6CzGXttOUvN_ThfEDg50zHdqrAAI3BwACEeChV2V-xjqOmtXcHgQ CAACAgUAAxkBAAIER2L6CytH_f5s7-HaiBj6jx-TRdLZAAJYBgACDoyxVwRYoe_-SpZQHgQ CAACAgUAAxkBAAIEPmL6CwZED9KoGu2l1fHWtU9Bv9HgAAKVBQACuo6gV4yViYWXvwpDHgQ CAACAgUAAxkBAAIEO2L6CvdzL2WiTPrRQMRPIBdy11XYAAKuBgACv9ygV_m09JLhcXVnHgQ')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/f91cefd6b2d084e743bb2.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/5fb1cf8ba009fd80ca679.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b66f3a65ce68e11e621cf.jpg")
@@ -47,7 +48,6 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
-STICKER = (environ.get('STICKER', 'CAACAgUAAxkBAAIEVWL6C28YSH-wls4oFFrziOCoUMUqAALDBQACbBS5V2NazuHcCfEPHgQ CAACAgUAAxkBAAIEVGL6C2lelc69C6FICGN9bwhWKY4GAAKwBgACxS6wVwr0-R_TTet3HgQ CAACAgUAAxkBAAIEQWL6C0-i60ZXLmNfrfGyF-tXQ8mGAAJ2BgACFPGhV5YGbchd7kR-HgQ CAACAgUAAxkBAAIEQmL6C0nFxWYjAzJkfqkdA34HARbJAAIPCAACuc2pV35uuVLrsyJzHgQ CAACAgUAAxkBAAIEQ2L6C0TYb7bWLdthTyt0J-YKL5b8AAKMBwACopOpV8IkcbZ5awoPHgQ CAACAgUAAxkBAAIERWL6Czw2n7TBN5akcqeSKEeevzAgAAJIBQACa-G5VwNKMtODitd-HgQ CAACAgUAAxkBAAIEQ2L6C0TYb7bWLdthTyt0J-YKL5b8AAKMBwACopOpV8IkcbZ5awoPHgQ CAACAgUAAxkBAAIERGL6CzGXttOUvN_ThfEDg50zHdqrAAI3BwACEeChV2V-xjqOmtXcHgQ CAACAgUAAxkBAAIER2L6CytH_f5s7-HaiBj6jx-TRdLZAAJYBgACDoyxVwRYoe_-SpZQHgQ CAACAgUAAxkBAAIEPmL6CwZED9KoGu2l1fHWtU9Bv9HgAAKVBQACuo6gV4yViYWXvwpDHgQ CAACAgUAAxkBAAIEO2L6CvdzL2WiTPrRQMRPIBdy11XYAAKuBgACv9ygV_m09JLhcXVnHgQ')).split()
 MAX_B_TN = environ.get("MAX_B_TN", "7")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/mastermindmayankmoviez')
