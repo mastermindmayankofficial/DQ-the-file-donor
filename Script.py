@@ -184,13 +184,13 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-   ▫️ <a href="https://t.me/+v3v37dFB-1hkZDll">ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a> 
-   ▫️ <a href="https://t.me/+6yKo_tipDnw1MGM1">sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ</a>
+      ▫️ <a href="https://t.me/+v3v37dFB-1hkZDll">ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a> ▫️
+      ▫️ <a href="https://t.me/+6yKo_tipDnw1MGM1">sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ</a> ▫️
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ <a href="https://t.me/mastermindmayankproject">ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>
-▫️ <a href="https://t.me/mastermindmayankmoviez">sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>
+        ▫️ <a href="https://t.me/mastermindmayankproject">ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a> ▫️
+        ▫️ <a href="https://t.me/mastermindmayankmoviez">sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> ▫️
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
