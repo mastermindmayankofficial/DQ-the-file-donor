@@ -58,7 +58,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_chat_action(enums.ChatAction.LOADING)
+        await message.reply_chat_action(enums.ChatAction.TYPING)
         m=await message.reply_sticker(
             sticker=random.choice(STICKER)
         )
