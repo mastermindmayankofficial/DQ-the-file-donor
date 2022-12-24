@@ -756,6 +756,8 @@ async def deletemultiplefiles(bot, message):
             InlineKeyboardButton("CᴀᴍRɪᴘ", callback_data="camrip"),
             InlineKeyboardButton("S-Pʀɪɴᴛ", callback_data="sprint")
           ],[
+            InlineKeyboardButton("Delete All Files", callback_data="autofilter_delete")
+          ],[
             InlineKeyboardButton("Cᴀɴᴄᴇʟ", callback_data="close_data")
           ]]
     await message.reply_text(
