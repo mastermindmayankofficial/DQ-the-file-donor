@@ -59,8 +59,10 @@ async def start(client, message):
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        await message.reply_sticker(sticker=random.choice(STICKER))
-        await asyncio.sleep(1)
+        await message.reply_sticker(
+            sticker=random.choice(STICKER)
+        )
+        await asyncio.sleep(2)
         await m.delete()  
         await message.reply_video(
             video=random.choice(PICS),
